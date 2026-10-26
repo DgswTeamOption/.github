@@ -5,7 +5,7 @@
 <h1 align="center">Refit Server</h1>
  
 <p align="center">
-  <b>학원 수업의 결석부터 보강까지, 한 곳에서 관리하는 서비스 — Refit</b>
+  <b>학원 수업의 결석부터 보강까지, 한 곳에서 관리하는 서비스</b>
 </p>
 
 > Refit Server는 학생과 선생님이 수업·출결·결석·보강 일정을 함께 관리할 수 있도록 돕는 Spring Boot API 서버입니다.
@@ -40,8 +40,24 @@ flowchart LR
 ```
 
 
-## 기술 스택
-
+##  기술 스택
+ 
+### Frontend (Web)
+ 
+| 분류 | 기술 |
+| --- | --- |
+| Language | HTML, CSS, JavaScript |
+| Library | React |
+| Build Tool | Vite |
+ 
+### Mobile App
+ 
+| 분류 | 기술 |
+| --- | --- |
+| Framework | React Native |
+ 
+### Backend (이 저장소)
+ 
 | 분류 | 기술 |
 | --- | --- |
 | Language | Java 21 |
