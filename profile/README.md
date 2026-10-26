@@ -56,7 +56,7 @@ flowchart LR
 | --- | --- |
 | Framework | React Native |
  
-### Backend (이 저장소)
+### Backend 
  
 | 분류 | 기술 |
 | --- | --- |
