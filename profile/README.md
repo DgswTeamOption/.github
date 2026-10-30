@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/24cdcb07-69cb-4eae-b673-499df0d18fdb" alt="Refit" width="100%">
 </p>
-<h1 align="center">Refit Server</h1>
+<h1 align="center">Refit</h1>
  
 <p align="center">
   <b>학원 수업의 결석부터 보강까지, 한 곳에서 관리하는 서비스</b>
